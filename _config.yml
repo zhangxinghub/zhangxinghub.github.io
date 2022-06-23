@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: [Xing Zhang's Page]
 description: []
+show_downloads: true
