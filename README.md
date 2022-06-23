@@ -17,7 +17,7 @@ My **[Curriculum Vitae](https://github.com/zhangxinghub/zhangxinghub.github.io/b
 
 ### Working Papers
 
--  **Chitchat Matters: How Does Chatbot Influence Trust**, with Yunfeng Lu, Yohanes Eko Riyanto, and Georgios Christopoulos
+-  **Chitchat Matters: How Does Chatbot Influence Trust in Customer-AI Interactions**, with Yunfeng Lu, Yohanes Eko Riyanto, and Georgios Christopoulos
 > **The Best Paper Award** in 2018 National Annual Conference of Game Theory and Experimental Economics in China
 
 -  **[Sunk Cost Fallacy, Self-control, and Contract Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898439)**, with Ganesh Iyer, Xiaoyan Xu, and Juin Kuan Chong
