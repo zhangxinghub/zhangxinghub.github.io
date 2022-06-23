@@ -13,7 +13,7 @@ My **[Curriculum Vitae](https://www.dropbox.com/s/6n2dg06s1aqpxwc/CV_XingZhang.p
 
   > **Media coverage**: the Times, the Telegraph, the Daily Mail, Huffington Post, Xinhua News Agency, People.com.cn, Asian Scientists
 
-- Maurice Schweitzer, Teck-Hua Ho, and **Xing Zhang** (2018), [How Monitoring Influences Trust: A Tale of Two Faces](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2586), ***Management Science*** 64(1), 253-270.
+- Maurice Schweitzer, Teck-Hua Ho, and **Xing Zhang** (2016), [How Monitoring Influences Trust: A Tale of Two Faces](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2586), ***Management Science*** 64(1), 253-270.
 
 ### Working Papers
 
