@@ -26,7 +26,7 @@ My **[Curriculum Vitae](https://github.com/zhangxinghub/zhangxinghub.github.io/b
 
 -  **[Preference for Hedging in Multiple Choice Questions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009983)**, with Jingcheng Fu and Songfa Zhong 
 
--  **Shadow of pandemics: Exposure to SARS and long-term mental health afterward**, with Chao Ma, Victor Li, and Wenxin Jiang
+-  **Shadow of Pandemics: Exposure to SARS and Long-term Pyschological Well-being**, with Chao Ma, Victor Li, and Wenxin Jiang
 
 
 ### Awards and Fellowships
@@ -46,6 +46,8 @@ Sungkyunkwan University
 25-2, Sungkyunkwan-Ro, Jongno-Gu
 
 Seoul, South Korea
+
+03063
 
 Email: zhangxingis **at** gmail.com
 
