@@ -48,3 +48,5 @@ Sungkyunkwan University
 Seoul, South Korea
 
 Email: zhangxingis **at** gmail.com
+
+![SKKU](SKK_Wide.png)
