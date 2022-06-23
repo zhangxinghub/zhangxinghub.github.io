@@ -1,5 +1,5 @@
 
-<img src="IMG_1821.jpg" alt="drawing" width="200"/>
+<img src="Profile_SKK_Wide.png" alt="drawing" width="500"/>
 
 ## Xing Zhang
 
