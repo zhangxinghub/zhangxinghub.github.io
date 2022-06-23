@@ -7,7 +7,7 @@ My **[Curriculum Vitae](https://github.com/zhangxinghub/zhangxinghub.github.io/b
 
 - Onn Siong Yim, **Xing Zhang**, Idan Shalev, Mikhail Monakhov, Songfa Zhong, Ming Hsu, Soo Hong Chew, Poh San Lai, and Richard P. Ebstein (2016) [Delay Discounting, Genetic Sensitivity, and Leukocyte Telomere Length](https://www.pnas.org/content/113/10/2780), ***Proceedings of the National Academy of Sciences, USA***, 113(10), 2780-2785 (*Co-first Authorship and Corresponding Author). 
 
- > **Media coverage**: the Times, the Telegraph, the Daily Mail, Huffington Post, Xinhua News Agency, People.com.cn, Asian Scientists
+  > **Media coverage**: the Times, the Telegraph, the Daily Mail, Huffington Post, Xinhua News Agency, People.com.cn, Asian Scientists
 
 - Maurice Schweitzer, Teck-Hua Ho, and **Xing Zhang** (2018), [How Monitoring Influences Trust: A Tale of Two Faces](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2586), ***Management Science*** 64(1), 253-270.
 
