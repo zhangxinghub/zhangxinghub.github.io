@@ -1,5 +1,5 @@
 
-<img src="Profile_SKK_Wide.png" alt="Profile_SKK_Wide" width="800"/>
+![Profile](Profile_SKK_Wide.png)
 
 ## Xing Zhang
 
