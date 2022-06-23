@@ -35,7 +35,12 @@ My **[Curriculum Vitae](https://github.com/zhangxinghub/zhangxinghub.github.io/b
 
 ### Contact Information
 
-Room 90329, International Hall, SKKU
+Room 90329, International Hall
+
+Sungkyunkwan University
+
 25-2, Sungkyunkwan-Ro, Jongno-Gu
+
 Seoul, South Korea
+
 Email: zhangxingis <at> gmail.com
