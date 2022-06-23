@@ -1,5 +1,5 @@
 
-![At SKK](IMG_1821.jpg)
+<img src="IMG_1821.jpg" alt="drawing" width="200"/>
 
 ## Xing Zhang
 
