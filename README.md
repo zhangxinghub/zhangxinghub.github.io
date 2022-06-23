@@ -1,5 +1,6 @@
 
-## About Xing
+## Xing Zhang
+
 I work at [Sungkyunkwan University Graduate School of Business](https://gsb.skku.edu/) (SKK GSB) as an assistant professor in marketing. My research considers how firms should incorporate consumer behavioral biases into pricing and choice architecture design. I conduct both empirical research to tackle the descriptive problems of how certain behaviour occurs, and theoretical research to tackle the prescriptive problems of how firms should respond.
 
 My **[Curriculum Vitae](https://github.com/zhangxinghub/zhangxinghub.github.io/blob/main/CV_XingZhang.pdf)**
