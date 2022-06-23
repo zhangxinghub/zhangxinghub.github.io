@@ -43,4 +43,4 @@ Sungkyunkwan University
 
 Seoul, South Korea
 
-Email: zhangxingis <at> gmail.com
+Email: zhangxingis **at** gmail.com
