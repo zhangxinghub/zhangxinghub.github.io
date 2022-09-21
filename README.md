@@ -52,4 +52,4 @@ Seoul, South Korea
 Email: zhangxingis **at** gmail.com
 
 ![SKKU](SKK_Wide.png)
-(SKKU campus in Autumn)
+(SKK campus in Autumn)
