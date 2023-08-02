@@ -17,16 +17,17 @@ My **[Curriculum Vitae](https://www.dropbox.com/s/6n2dg06s1aqpxwc/CV_XingZhang.p
 
 ### Working Papers
 
+-  **[Sunk Cost Fallacy, Self-control, and Contract Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898439)**, with Ganesh Iyer, Xiaoyan Xu, and Juin Kuan Chong, **conditionally accepted at the Journal of Marketing Research**
+
+-  **Shadow of Pandemics: Exposure to SARS and Long-term Pyschological Well-being**, with Chao Ma, Victor Li, and Wenxin Jiang, **conditionally accepted at Economic Inquiry**
+
 -  **Chitchat Matters: How Does Chatbot Influence Trust in Customer-AI Interactions**, with Yunfeng Lu, Yohanes Eko Riyanto, and Georgios Christopoulos
 > **The Best Paper Award** in 2018 National Annual Conference of Game Theory and Experimental Economics in China
-
--  **[Sunk Cost Fallacy, Self-control, and Contract Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898439)**, with Ganesh Iyer, Xiaoyan Xu, and Juin Kuan Chong
 
 -  **[Putting Preference for Randomization to Work -- Evidence from Field and Lab Experiments](https://zhongsongfa.weebly.com/uploads/4/8/4/4/48443905/20200515.pdf)**, with Songfa Zhong
 
 -  **[Preference for Hedging in Multiple Choice Questions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009983)**, with Jingcheng Fu and Songfa Zhong 
 
--  **Shadow of Pandemics: Exposure to SARS and Long-term Pyschological Well-being**, with Chao Ma, Victor Li, and Wenxin Jiang
 
 
 ### Awards and Fellowships
