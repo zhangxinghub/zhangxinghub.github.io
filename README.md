@@ -17,7 +17,7 @@ My **[Curriculum Vitae](https://www.dropbox.com/s/6n2dg06s1aqpxwc/CV_XingZhang.p
 
 -  **[Sunk Cost Fallacy, Self-control, and Contract Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898439)**, with Ganesh Iyer, Xiaoyan Xu, and Juin Kuan Chong, forthcoming at **the Journal of Marketing Research**
 
--  **Shadow of Pandemics: Exposure to SARS and Long-term Psychological Well-being**, with Chao Ma, Victor Li, and Wenxin Jiang, **conditionally accepted at Economic Inquiry**
+-  **Shadow of Pandemics: Exposure to SARS and Long-term Psychological Well-being**, with Chao Ma, Victor Li, and Wenxin Jiang, conditionally accepted at  **Economic Inquiry**
 
 ### Working Papers
 
