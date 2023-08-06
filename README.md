@@ -15,9 +15,9 @@ My **[Curriculum Vitae](https://www.dropbox.com/s/6n2dg06s1aqpxwc/CV_XingZhang.p
 
 - Maurice Schweitzer, Teck-Hua Ho, and **Xing Zhang** (2016), [How Monitoring Influences Trust: A Tale of Two Faces](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2586), ***Management Science*** 64(1), 253-270.
 
--  **[Sunk Cost Fallacy, Self-control, and Contract Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898439)**, with Ganesh Iyer, Xiaoyan Xu, and Juin Kuan Chong, forthcoming at **the Journal of Marketing Research**
+-  **[Sunk Cost Fallacy, Self-control, and Contract Design](https://www.dropbox.com/scl/fi/4mey5ny8pe9f13sha20u2/Sunk-cost-effect-self-control-and-contract-design.pdf?rlkey=daiao1gigpk3ngo3h5vunb6hy&dl=0)**, with Ganesh Iyer, Xiaoyan Xu, and Juin Kuan Chong, forthcoming, **Journal of Marketing Research**
 
--  **Shadow of Pandemics: Exposure to SARS and Long-term Psychological Well-being**, with Chao Ma, Victor Li, and Wenxin Jiang, conditionally accepted at  **Economic Inquiry**
+-  **Shadow of Pandemics: Exposure to SARS and Long-term Psychological Well-being**, with Chao Ma, Victor Li, and Wenxin Jiang, conditionally accepted,  **Economic Inquiry**
 
 ### Working Papers
 
