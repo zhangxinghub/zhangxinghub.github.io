@@ -15,11 +15,11 @@ My **[Curriculum Vitae](https://www.dropbox.com/s/6n2dg06s1aqpxwc/CV_XingZhang.p
 
 - Maurice Schweitzer, Teck-Hua Ho, and **Xing Zhang** (2016), [How Monitoring Influences Trust: A Tale of Two Faces](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2586), ***Management Science*** 64(1), 253-270.
 
+-  **[Sunk Cost Fallacy, Self-control, and Contract Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898439)**, with Ganesh Iyer, Xiaoyan Xu, and Juin Kuan Chong, forthcoming at **the Journal of Marketing Research**
+
+-  **Shadow of Pandemics: Exposure to SARS and Long-term Psychological Well-being**, with Chao Ma, Victor Li, and Wenxin Jiang, **conditionally accepted at Economic Inquiry**
+
 ### Working Papers
-
--  **[Sunk Cost Fallacy, Self-control, and Contract Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898439)**, with Ganesh Iyer, Xiaoyan Xu, and Juin Kuan Chong, **conditionally accepted at the Journal of Marketing Research**
-
--  **Shadow of Pandemics: Exposure to SARS and Long-term Pyschological Well-being**, with Chao Ma, Victor Li, and Wenxin Jiang, **conditionally accepted at Economic Inquiry**
 
 -  **Chitchat Matters: How Does Chatbot Influence Trust in Customer-AI Interactions**, with Yunfeng Lu, Yohanes Eko Riyanto, and Georgios Christopoulos
 > **The Best Paper Award** in 2018 National Annual Conference of Game Theory and Experimental Economics in China
