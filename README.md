@@ -17,7 +17,7 @@ My **[Curriculum Vitae](https://www.dropbox.com/s/6n2dg06s1aqpxwc/CV_XingZhang.p
 
 -  **[Sunk Cost Fallacy, Self-control, and Contract Design](https://www.dropbox.com/scl/fi/4mey5ny8pe9f13sha20u2/Sunk-cost-effect-self-control-and-contract-design.pdf?rlkey=daiao1gigpk3ngo3h5vunb6hy&dl=0)**, with Ganesh Iyer, Xiaoyan Xu, and Juin Kuan Chong, forthcoming, **Journal of Marketing Research**
 
--  **Shadow of Pandemics: Exposure to SARS and Long-term Psychological Well-being**, with Chao Ma, Victor Li, and Wenxin Jiang, forthcoming,  **Economic Inquiry**
+-  **[Exposure to SARS and Long-term Psychological Well-being](https://www.dropbox.com/scl/fi/2ftb58f1lcoyjxrbtfac5/SARS.pdf?rlkey=61alc948j40aobjixxk6gs1vi&dl=0)**, with Chao Ma, Victor Li, and Wenxin Jiang, forthcoming,  **Economic Inquiry**
 
 ### Working Papers
 
@@ -50,7 +50,7 @@ Seoul, South Korea
 
 03063
 
-Email: zhangxingis **at** gmail.com
+Email: zhangxingis **"shift + 2"** gmail.com
 
 ![SKKU](SKK_Wide.png)
 (SKK campus in Autumn)
