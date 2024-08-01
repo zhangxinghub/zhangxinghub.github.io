@@ -9,15 +9,15 @@ My **[Curriculum Vitae](https://www.dropbox.com/s/6n2dg06s1aqpxwc/CV_XingZhang.p
 
 ### Publications
 
-- Onn Siong Yim, **Xing Zhang**, Idan Shalev, Mikhail Monakhov, Songfa Zhong, Ming Hsu, Soo Hong Chew, Poh San Lai, and Richard P. Ebstein (2016) [Delay Discounting, Genetic Sensitivity, and Leukocyte Telomere Length](https://www.pnas.org/content/113/10/2780), ***Proceedings of the National Academy of Sciences, USA***, 113(10), 2780-2785 (*Co-first Authorship and Corresponding Author). 
+-  **[Sunk Cost Fallacy, Self-control, and Contract Design](https://www.dropbox.com/scl/fi/4mey5ny8pe9f13sha20u2/Sunk-cost-effect-self-control-and-contract-design.pdf?rlkey=daiao1gigpk3ngo3h5vunb6hy&dl=0)**,  **Xing Zhang**, Ganesh Iyer, Xiaoyan Xu, and Juin Kuan Chong, **Journal of Marketing Research**, forthcoming.
 
-  > **Media coverage**: the Times, the Telegraph, the Daily Mail, Huffington Post, Xinhua News Agency, People.com.cn, Asian Scientists
+-  **[Exposure to SARS and Long-term Psychological Well-being](https://www.dropbox.com/scl/fi/2ftb58f1lcoyjxrbtfac5/SARS.pdf?rlkey=61alc948j40aobjixxk6gs1vi&dl=0)** (2024), Chao Ma, Victor Li, Wenxin Jiang, and **Xing Zhang**, **Economic Inquiry** 62(1), pp.39-55.
 
 - Maurice Schweitzer, Teck-Hua Ho, and **Xing Zhang** (2016), [How Monitoring Influences Trust: A Tale of Two Faces](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2586), ***Management Science*** 64(1), 253-270.
 
--  **[Sunk Cost Fallacy, Self-control, and Contract Design](https://www.dropbox.com/scl/fi/4mey5ny8pe9f13sha20u2/Sunk-cost-effect-self-control-and-contract-design.pdf?rlkey=daiao1gigpk3ngo3h5vunb6hy&dl=0)**, with Ganesh Iyer, Xiaoyan Xu, and Juin Kuan Chong, forthcoming, **Journal of Marketing Research**
+- Onn Siong Yim, **Xing Zhang**, Idan Shalev, Mikhail Monakhov, Songfa Zhong, Ming Hsu, Soo Hong Chew, Poh San Lai, and Richard P. Ebstein (2016) [Delay Discounting, Genetic Sensitivity, and Leukocyte Telomere Length](https://www.pnas.org/content/113/10/2780), ***Proceedings of the National Academy of Sciences, USA***, 113(10), 2780-2785 (*Co-first Authorship and Corresponding Author). 
 
--  **[Exposure to SARS and Long-term Psychological Well-being](https://www.dropbox.com/scl/fi/2ftb58f1lcoyjxrbtfac5/SARS.pdf?rlkey=61alc948j40aobjixxk6gs1vi&dl=0)**, with Chao Ma, Victor Li, and Wenxin Jiang, forthcoming,  **Economic Inquiry**
+  > **Media coverage**: the Times, the Telegraph, the Daily Mail, Huffington Post, Xinhua News Agency, People.com.cn, Asian Scientists
 
 ### Working Papers
 
