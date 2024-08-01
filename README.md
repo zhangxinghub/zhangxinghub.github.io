@@ -13,7 +13,7 @@ My **[Curriculum Vitae](https://www.dropbox.com/s/6n2dg06s1aqpxwc/CV_XingZhang.p
 
 -  **[Exposure to SARS and Long-term Psychological Well-being](https://www.dropbox.com/scl/fi/2ftb58f1lcoyjxrbtfac5/SARS.pdf?rlkey=61alc948j40aobjixxk6gs1vi&dl=0)** (2024), Chao Ma, Victor Li, Wenxin Jiang, and **Xing Zhang**, **Economic Inquiry** 62(1), pp.39-55 (Corresponding Author).
 
-- Maurice Schweitzer, Teck-Hua Ho, and **Xing Zhang** (2016), [How Monitoring Influences Trust: A Tale of Two Faces](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2586), ***Management Science*** 64(1), 253-270.
+- Maurice Schweitzer, Teck-Hua Ho, and **Xing Zhang** (2018), [How Monitoring Influences Trust: A Tale of Two Faces](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2586), ***Management Science*** 64(1), 253-270.
 
 - Onn Siong Yim, **Xing Zhang**, Idan Shalev, Mikhail Monakhov, Songfa Zhong, Ming Hsu, Soo Hong Chew, Poh San Lai, and Richard P. Ebstein (2016) [Delay Discounting, Genetic Sensitivity, and Leukocyte Telomere Length](https://www.pnas.org/content/113/10/2780), ***Proceedings of the National Academy of Sciences, USA***, 113(10), 2780-2785 (*Co-first Authorship and Corresponding Author). 
 
