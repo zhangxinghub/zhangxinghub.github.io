@@ -9,7 +9,7 @@ My **[Curriculum Vitae](https://www.dropbox.com/s/6n2dg06s1aqpxwc/CV_XingZhang.p
 
 ### Publications
 
--  **[Sunk Cost Fallacy, Self-control, and Contract Design](https://www.dropbox.com/scl/fi/4mey5ny8pe9f13sha20u2/Sunk-cost-effect-self-control-and-contract-design.pdf?rlkey=daiao1gigpk3ngo3h5vunb6hy&dl=0)**,  **Xing Zhang**, Ganesh Iyer, Xiaoyan Xu, and Juin Kuan Chong, **Journal of Marketing Research**, forthcoming.
+-  **[Sunk Cost Fallacy, Self-control, and Contract Design](https://www.dropbox.com/scl/fi/4mey5ny8pe9f13sha20u2/Sunk-cost-effect-self-control-and-contract-design.pdf?rlkey=daiao1gigpk3ngo3h5vunb6hy&dl=0)**,  **Xing Zhang**, Ganesh Iyer, Xiaoyan Xu, and Juin Kuan Chong, **Journal of Marketing Research**, Volume 61 Issue 5, October 2024 pp. 975–992.
 
 -  **[Exposure to SARS and Long-term Psychological Well-being](https://www.dropbox.com/scl/fi/2ftb58f1lcoyjxrbtfac5/SARS.pdf?rlkey=61alc948j40aobjixxk6gs1vi&dl=0)** (2024), Chao Ma, Victor Li, Wenxin Jiang, and **Xing Zhang**, **Economic Inquiry** 62(1), pp.39-55 (Corresponding Author).
 
