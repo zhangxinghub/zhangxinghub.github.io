@@ -33,7 +33,7 @@ My **[Curriculum Vitae](https://www.dropbox.com/s/6n2dg06s1aqpxwc/CV_XingZhang.p
 
 ### Awards and Fellowships
 
-- Teaching Excellence Award, SKK GSB, Sungkyungkwan University, 2021, 2024
+- Teaching Excellence Award, SKK GSB, Sungkyungkwan University, 2021, 2024, 2025
 
 - AMA-Sheth Foundation Doctoral Consortium Fellow, Northwestern University, 2014
 
