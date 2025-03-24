@@ -28,7 +28,7 @@ My **[Curriculum Vitae](https://www.dropbox.com/s/6n2dg06s1aqpxwc/CV_XingZhang.p
 -  **[Putting Preference for Randomization to Work -- Evidence from Field and Lab Experiments](https://zhongsongfa.weebly.com/uploads/4/8/4/4/48443905/20200515.pdf)**, with Songfa Zhong
 
 -  **[Preference for Hedging in Multiple Choice Questions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009983)**, with Jingcheng Fu and Songfa Zhong
--  
+  
 -  **[Doing Less for More: Consumer Search and Undertreatment in Credence Service Markets](https://www.dropbox.com/scl/fi/30vpfedylz28ids06li4y/Consumer-Search-and-Undertreatment.pdf?rlkey=o00fdkp4fgixqgr5x8uiubgj6&dl=0)**, with Xiaoyan Xu, Weishi Lim, and Jeff Cai
 
 
