@@ -29,7 +29,7 @@ My **[Curriculum Vitae](https://www.dropbox.com/s/6n2dg06s1aqpxwc/CV_XingZhang.p
 
 -  **[Preference for Hedging in Multiple Choice Questions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009983)**, with Jingcheng Fu and Songfa Zhong
   
--  **[Doing Less for More: Consumer Search and Undertreatment in Credence Service Markets](https://www.dropbox.com/scl/fi/30vpfedylz28ids06li4y/Consumer-Search-and-Undertreatment.pdf?rlkey=o00fdkp4fgixqgr5x8uiubgj6&dl=0)**, with Xiaoyan Xu, Weishi Lim, and Jeff Cai
+-  **[Doing Less for More: Consumer Search and Undertreatment in Credence Service Markets](https://arxiv.org/abs/2503.21175)**, with Xiaoyan Xu, Weishi Lim, and Jeff Cai
 
 
 ### Awards and Fellowships
