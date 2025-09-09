@@ -56,4 +56,4 @@ Seoul, South Korea
 Email: zhangxingis **"shift + 2"** gmail.com
 
 ![SKKU](SKK_Wide.png)
-(Sungkyunkwan (成均馆) in Autumn)
+Sungkyunkwan (成均馆) in Autumn
