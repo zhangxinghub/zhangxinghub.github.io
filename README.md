@@ -9,7 +9,7 @@ My **[Curriculum Vitae](https://www.dropbox.com/scl/fi/i1y7uuimfu1rowiuge98b/CV_
 
 ### Publications
 -  **Learning to win for self-versus-others: The role of social closeness and prosocial orientation**, Shiguang Fu, Qiang Shen, and **Xing Zhang**, **Personality and Individual Differences**, accepted.
--  
+
 -  **[Preference for Hedging in Multiple Choice Questions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009983)**, Jingcheng Fu, **Xing Zhang**, and Songfa Zhong, **Journal of Economic Behavior and Organization**, forthcoming. ([Replication Package](https://data.mendeley.com/datasets/m6kxt7p9g3/1))
 
 -  **[Sunk Cost Fallacy, Self-control, and Contract Design](https://www.dropbox.com/scl/fi/4mey5ny8pe9f13sha20u2/Sunk-cost-effect-self-control-and-contract-design.pdf?rlkey=daiao1gigpk3ngo3h5vunb6hy&dl=0)**,  **Xing Zhang**, Ganesh Iyer, Xiaoyan Xu, and Juin Kuan Chong, **Journal of Marketing Research**, Volume 61 Issue 5, October 2024 pp. 975–992.
