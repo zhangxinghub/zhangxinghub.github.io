@@ -3,7 +3,7 @@
 
 ## About
 
-I work at [Sungkyunkwan University Graduate School of Business](https://gsb.skku.edu/) (SKK GSB) as an assistant professor in marketing. My research considers how firms should incorporate consumer behavioral biases into pricing and choice architecture design. I conduct both empirical research to tackle the descriptive problems of how certain behaviour occurs, and theoretical research to tackle the prescriptive problems of how firms should respond.
+I work at [Sungkyunkwan University Graduate School of Business](https://gsb.skku.edu/) (SKK GSB) as an assistant professor in marketing. I study how consumers’ behavioral biases create strategic opportunities and challenges for firms and policymakers. My research combines experimental methods, which address descriptive questions about how certain consumer behavior arises, with game-theoretical modeling, which addresses prescriptive questions regarding how firms and policymakers should optimally respond. 
 
 My **[Curriculum Vitae](https://www.dropbox.com/scl/fi/i1y7uuimfu1rowiuge98b/CV_XingZhang.pdf?rlkey=69n2s58augy4v5t96kc16xea1&dl=0)**
 
@@ -24,13 +24,14 @@ My **[Curriculum Vitae](https://www.dropbox.com/scl/fi/i1y7uuimfu1rowiuge98b/CV_
   > **Media coverage**: the Times, the Telegraph, the Daily Mail, Huffington Post, Xinhua News Agency, People.com.cn, Asian Scientists
 
 ### Working Papers
-
--  **Chitchat Matters: How Does Chatbot Influence Trust in Customer-AI Interactions**, with Yunfeng Lu, Yohanes Eko Riyanto, and Georgios Christopoulos
-> **The Best Paper Award** in 2018 National Annual Conference of Game Theory and Experimental Economics in China
-
+-  **[Withdrawal Management and Digital Addiction](https://www.dropbox.com/scl/fi/40al1vru4ob6s5mgwslfu/Withdrawal_Management.pdf?rlkey=5lsxly8j7tce77jld3ivd8h5u&dl=0)**, with Ganesh Iyer and Xiaoyan Xu
+-  
 -  **[Putting Preference for Randomization to Work -- Evidence from Field and Lab Experiments](https://zhongsongfa.weebly.com/uploads/4/8/4/4/48443905/20200515.pdf)**, with Songfa Zhong
   
 -  **[Doing Less for More: Consumer Search and Undertreatment in Credence Service Markets](https://arxiv.org/abs/2503.21175)**, with Xiaoyan Xu, Weishi Lim, and Jeff Cai
+
+-  **Chitchat Matters: How Does Chatbot Influence Trust in Customer-AI Interactions**, with Yunfeng Lu, Yohanes Eko Riyanto, and Georgios Christopoulos
+> **The Best Paper Award** in 2018 National Annual Conference of Game Theory and Experimental Economics in China
 
 
 ### Awards and Fellowships
