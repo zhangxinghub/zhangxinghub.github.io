@@ -33,9 +33,6 @@ My **[Curriculum Vitae](https://www.dropbox.com/scl/fi/i1y7uuimfu1rowiuge98b/CV_
   
 -  **[Doing Less for More: Consumer Search and Undertreatment in Credence Service Markets](https://arxiv.org/abs/2503.21175)**, with Xiaoyan Xu, Weishi Lim, and Jeff Cai
 
--  **Chitchat Matters: How Does Chatbot Influence Trust in Customer-AI Interactions**, with Yunfeng Lu, Yohanes Eko Riyanto, and Georgios Christopoulos
-> **The Best Paper Award** in 2018 National Annual Conference of Game Theory and Experimental Economics in China
-
 
 ### Awards and Fellowships
 
