@@ -9,7 +9,7 @@ My **[Curriculum Vitae](https://www.dropbox.com/scl/fi/i1y7uuimfu1rowiuge98b/CV_
 
 ### Publications
 
--  **Menu-Induced Preference Cannibalization: A Field Study on Designing Probabilistic Price Promotion Schemes**, Ruonan Zhang, **Xing Zhang**, and Hang Wu, **Journal of Business Research**, Accepted.
+-  **Menu-Induced Preference Cannibalization: A Field Study on Designing Probabilistic Price Promotion Schemes**, Ruonan Zhang, **Xing Zhang**, and Hang Wu, **Journal of Business Research**, Forthcoming.
   
 -  **[Learning to win for self-versus-others: The role of social closeness and prosocial orientation](https://doi.org/10.1016/j.paid.2025.113453)**, Shiguang Fu, Qiang Shen, and **Xing Zhang**, **Personality and Individual Differences**, Volume 247, December 2025.
 
