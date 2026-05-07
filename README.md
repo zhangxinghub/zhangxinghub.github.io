@@ -27,7 +27,6 @@ My **[Curriculum Vitae](https://www.dropbox.com/scl/fi/i1y7uuimfu1rowiuge98b/CV_
   > **Media coverage**: the Times, the Telegraph, the Daily Mail, Huffington Post, Xinhua News Agency, People.com.cn, Asian Scientists
 
 ### Working Papers
--  **[Withdrawal Management and Digital Addiction](https://www.dropbox.com/scl/fi/40al1vru4ob6s5mgwslfu/Withdrawal_Management.pdf?rlkey=5lsxly8j7tce77jld3ivd8h5u&dl=0)**, with Ganesh Iyer and Xiaoyan Xu
   
 -  **[Putting Preference for Randomization to Work -- Evidence from Field and Lab Experiments](https://zhongsongfa.weebly.com/uploads/4/8/4/4/48443905/20200515.pdf)**, with Songfa Zhong
   
