@@ -3,7 +3,7 @@
 
 ## About
 
-I work at [Sungkyunkwan University Graduate School of Business](https://gsb.skku.edu/) (SKK GSB) as an assistant professor in marketing. I study how consumers’ behavioral biases create strategic opportunities and challenges for firms and policymakers. My research combines experimental methods, which address descriptive questions about how certain consumer behavior arises, with game-theoretical modeling, which addresses prescriptive questions regarding how firms and policymakers should optimally respond. 
+I work at [Sungkyunkwan University Graduate School of Business](https://gsb.skku.edu/) (SKK GSB) as an associate professor in marketing. I study how consumers’ behavioral biases create strategic opportunities and challenges for firms and policymakers. My research combines experimental methods, which address descriptive questions about how certain consumer behavior arises, with game-theoretical modeling, which addresses prescriptive questions regarding how firms and policymakers should optimally respond. 
 
 My **[Curriculum Vitae](https://www.dropbox.com/scl/fi/i1y7uuimfu1rowiuge98b/CV_XingZhang.pdf?rlkey=69n2s58augy4v5t96kc16xea1&dl=0)**
 
